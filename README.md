@@ -2,9 +2,9 @@
 
 ## Horní lišta:
 
-Náš Team / Golfová akademie/ Junior Golf / Golf Club / Turnaje / Fotogalerie / Kontakt
+Náš Team / _Golfová akademie_ / _Junior Golf_ / _Golf Club_ / Turnaje / Fotogalerie / Kontakt
 
-(ty tři červené budou v těch hlavních boxech, jak jste mi v návrhu posílal)
+(ty tři kurzívou budou v těch hlavních boxech, jak jste mi v návrhu posílal)
 
 Jednotlivé sekce MENU:
 
