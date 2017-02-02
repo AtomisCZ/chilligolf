@@ -1,4 +1,6 @@
-Horní lišta:
+# Chilli Golf
+
+## Horní lišta:
 
 Náš Team / Golfová akademie/ Junior Golf / Golf Club / Turnaje / Fotogalerie / Kontakt
 
@@ -6,39 +8,39 @@ Náš Team / Golfová akademie/ Junior Golf / Golf Club / Turnaje / Fotogalerie 
 
 Jednotlivé sekce MENU:
 
-Náš team:
+## Náš team:
 
 Jedna stránka, foto trenéra, bio + kontakt, ceník
 
-Golfová akademie:
+## Golfová akademie:
 
-Golfové kurzy &gt;&gt;&gt; podstránka popis kurzu + registrační formulář
+Golfové kurzy >>> podstránka popis kurzu + registrační formulář
 
-Privátní lekce &gt;&gt;&gt; podstránka lekce
+Privátní lekce >>> podstránka lekce
 
-Kempy &gt;&gt;&gt;&gt;&gt; podstránka termínů a popis kempu
+Kempy >>> podstránka termínů a popis kempu
 
-Junior Golf:
+## Junior Golf:
 
-Skupinové tréninky &gt;&gt;&gt; podstránka popis kurzu + registrační formulář
+Skupinové tréninky >>> podstránka popis kurzu + registrační formulář
 
 Kondiční trénink >>> podstránka popis kurzu
 
 Kempy >>> podstránka termín + registrační formulář
 
-Golf Club:
+## Golf Club:
 
 Dospělý >>> podstránka výhody, cena + registrační formulář /pouze jedna varianta BASIC/
 
 Junior >>> podstránka výhody, cena + registrační formulář /pouze jedna variant JUNIOR/
 
-Turnaje:
+## Turnaje:
 
 2017 GOLF TOUR >>> podstránka termíny, podmínky + registrační formulář
 
-Galerie:
+## Galerie:
 
-Kontakt:
+## Kontakt:
 
 Podstránku nechat is 3xmapka dle původního webu
 
