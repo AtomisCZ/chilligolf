@@ -10,5 +10,9 @@
 	<body <?php body_class(); ?>>
 	
 		<header class="site-header">
-			
+				<img src="<?php bloginfo('template_url'); ?>/images/header.png">
+
+				<nav class="site-nav">
+					<?php wp_nav_menu(); ?>
+				</nav>
 		</header>
