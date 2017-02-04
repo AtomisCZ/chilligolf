@@ -6,7 +6,7 @@ var cleanCSS = require('gulp-clean-css');
 var uglify = require('gulp-uglifyjs');
 var ftp = require('gulp-ftp');
 var gutil = require('gulp-util');
-
+var csso = require('gulp-csso');
 
 
 gulp.task('serve', function() {
@@ -16,7 +16,6 @@ gulp.task('serve', function() {
 
     gulp.src('app/styles/*.scss')
     	.pipe(sass().on('error', sass.logError))
-   		.pipe(cleanCSS({compatibility: 'ie8'}))
     	.pipe(gulp.dest('dist'));
 
     gulp.src('app/*.php')
