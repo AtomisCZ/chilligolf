@@ -31,7 +31,7 @@ gulp.task('ftp', function () {
             host: 'apitest.borec.cz',
             user: 'apitest.borec.cz',
             pass: '8dg3c3u6',
-            remotePath: '/wp-content/themes'
+            remotePath: '/wp-content/themes/chilligolf'
         }))
         .pipe(gutil.noop());
 });
