@@ -26,12 +26,12 @@ gulp.task('serve', function() {
 });
 
 gulp.task('ftp', function () {
-    return gulp.src('dist/sopoto.txt')
+    return gulp.src('dist/*')
         .pipe(ftp({
             host: 'apitest.borec.cz',
             user: 'apitest.borec.cz',
             pass: '8dg3c3u6',
-            remotePath: '/js'
+            remotePath: '/wp-content/themes'
         }))
         .pipe(gutil.noop());
 });
