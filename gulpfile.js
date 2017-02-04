@@ -19,8 +19,6 @@ gulp.task('serve', function() {
     	.pipe(gulp.dest('dist'));
 
     gulp.src('app/*.php')
-    	.pipe(sass().on('error', sass.logError))
-   		.pipe(cleanCSS({compatibility: 'ie8'}))
     	.pipe(gulp.dest('dist'));
 });
 
